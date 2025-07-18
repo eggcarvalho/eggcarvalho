@@ -53,8 +53,8 @@ I've been working as a developer since 2009, helping companies and individuals t
 
 ## 📫 How to reach me:
 
-- [LinkedIn](https://www.linkedin.com) *(add your real link!)*
-- [Portfolio](https://www.egbertocarvalho.com.br) *(add your website or portfolio!)*
+- [LinkedIn](https://www.linkedin.com) 
+- [Portfolio](https://www.egbertocarvalho.com.br) 
 - Email: **contato@egbertocarvalho.com.br**  
 - GitHub: **[@egbertocarvalho](https://github.com/eggcarvalho)**
 
